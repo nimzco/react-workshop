@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
-import {TextField, ActionList} from '@shopify/polaris';
-
 import './Autocomplete.css';
 
-export default class Autocomplete extends Component {
+export default class Autocomplete extends React.Component {
   state = {
     inputValue: '',
   };
@@ -17,25 +15,11 @@ export default class Autocomplete extends Component {
   handleItemSelect(value) {
     const {onSelect} = this.props;
 
-    if (typeof onSelect === 'function') {
-      onSelect(value);
-    }
+    onSelect(value);
 
     // Let's clear the input for better UX
     this.setState({
       inputValue: '',
-    });
-  }
-
-  showPopover = () => {
-    this.setState({
-      popoverVisible: true,
-    });
-  }
-
-  hidePopover = () => {
-    this.setState({
-      popoverVisible: false,
     });
   }
 
@@ -44,44 +28,25 @@ export default class Autocomplete extends Component {
     const {inputValue} = this.state;
 
     return (
-      <div className="Autocomplete">
-        <TextField
+      <div>
+        <input
           placeholder='Start typing to search...'
-          onChange={this.handleInputChange}
           value={inputValue}
+          onChange={this.handleInputChange}
+          className="Autocomplete-Input"
         />
-        <ActionList
-          items={filterItems(items, inputValue).map(({value}) => ({
-            content: value,
-            onAction: () => this.handleItemSelect(value),
-          }))}
-        />
+        <ul className="Autocomplete-List">
+          {filterItems(items, inputValue).map( (item, index) =>
+            <li
+              key={index}
+              className="Autocomplete-List__item"
+              onClick={() => this.handleItemSelect(item.value)}
+            >
+              {item.value}
+            </li>
+          )}
+        </ul>
       </div>
-    );
-  }
-}
-
-
-/*
- * React.Component provides a method called setState,
- * which will update our component's internal state
- * and then re-render it.
- */
-
-class Counter extends React.Component {
-  state = {
-    count: 0
-  }
-  incrementCount() {
-    this.setState({
-      count: this.state.count + 1
-    });
-  }
-  render() {
-    return (
-      <button onClick={() => this.incrementCount()}>
-        I was clicked {this.state.count} times!
-      </button>
     );
   }
 }
