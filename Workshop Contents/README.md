@@ -16,15 +16,16 @@ We'll be using [create-react-app](https://github.com/facebookincubator/create-re
 It needs Node v6.x.x or greater installed on your machine. You can easily double check this by running `node --version` from the command line.
 
 From your terminal, run the following command to install it globally:
-
-    npm install -g create-react-app
-
+```sh
+npm install -g create-react-app
+```
 To make sure it's working properly, try running:
 
-    create-react-app react-workshop-app
-    cd react-workshop-app
-    npm start
-
+```sh
+create-react-app react-workshop-app
+cd react-workshop-app
+npm start
+```
 ## Syllabus
 
 ### Introduction
