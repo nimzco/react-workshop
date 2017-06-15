@@ -19,12 +19,12 @@ Not every project may need to use React.
 
 When evaluating the needs of a project, here are a few factors that might make it a good candidate for using React:
 
-✅  **Lots of state to manage**
-**✅  Lots of DOM management**
-**✅ Components re-used in multiple places**
-**🆗 To fight Spaghetti code 🍝** 
-⛔️ ~~Because it's the new hotness~~
-⛔️ ~~React All The Things!~~ 
+- ✅  **Lots of state to manage**
+- **✅  Lots of DOM management**
+- **✅ Components re-used in multiple places**
+- **🆗 To fight Spaghetti code 🍝** 
+- ⛔️ ~~Because it's the new hotness~~
+- ⛔️ ~~React All The Things!~~ 
 
 ## Imperative vs. Declarative programming
 
