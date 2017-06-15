@@ -2,9 +2,12 @@
 
 ### Length: 2 hours
 
-### Prerequisites:
+## Prerequisites:
+
+### React:
 React is a JavaScript library, and so it assumes you have a basic understanding of the JavaScript language. If you don't feel very confident, we recommend [refreshing your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) so you can follow along more easily.
 
+### ES6
 We'll also be using some of the ES6 syntax in the examples. We try to use it sparingly because it's still relatively new, but we encourage you to get familiar with arrow functions, classes, template literals, let, and const statements: https://babeljs.io/learn-es2015/
 
 ### Install Creact-react-app
