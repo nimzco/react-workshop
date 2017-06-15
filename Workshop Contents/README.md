@@ -2,16 +2,16 @@
 
 ### Length: 2 hours
 
-## Prerequisites:
+## Prerequisites
 
-### React:
-React is a JavaScript library, and so it assumes you have a basic understanding of the JavaScript language. If you don't feel very confident, we recommend [refreshing your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) so you can follow along more easily.
+### React
+React is a JavaScript library, so it assumes you have a basic understanding of the JavaScript language. If you don't feel very confident, we recommend [refreshing your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
 ### ES6
-We'll also be using some of the ES6 syntax in the examples. We try to use it sparingly because it's still relatively new, but we encourage you to get familiar with arrow functions, classes, template literals, let, and const statements: https://babeljs.io/learn-es2015/
+This workshop uses ES6 syntax in the examples. It is used sparingly, but we encourage you to get familiar with [arrow functions, classes, template literals, let, and const statements](https://babeljs.io/learn-es2015/)
 
-### Install Creact-react-app
-We'll be using [create-react-app](https://github.com/facebookincubator/create-react-app/) to build our application. Create React App is a command-line tool for rapidly bootstrapping React applications, with zero configuration needed.
+### `creact-react-app`
+The workshop uses [create-react-app](https://github.com/facebookincubator/create-react-app/) to build our application. Create React App is a command-line tool for rapidly bootstrapping React applications, with zero configuration needed.
 
 It needs Node v6.x.x or greater installed on your machine. You can easily double check this by running `node --version` from the command line.
 
@@ -19,6 +19,7 @@ From your terminal, run the following command to install it globally:
 ```sh
 npm install -g create-react-app
 ```
+
 To make sure it's working properly, try running:
 
 ```sh
@@ -26,6 +27,8 @@ create-react-app react-workshop-app
 cd react-workshop-app
 npm start
 ```
+
+
 ## Syllabus
 
 ### Introduction
@@ -45,21 +48,20 @@ Objectives:
 
 - Render UI with React
 - Become familiar with JSX
-- Transform and massage data into UI
 
 ### Components
 
+Objectives:
+
 - How to define components
-- Props
-- State
-- (Styling components) ?
+- Learn about props
+- Styling components
 
 ### Stateful Components
 
-One of the first questions that's likely to come up when you start using React is "when should I use state, and when should I use props?" We'll discuss how data flows, or rather, how components communicate with each other. Finally, we'll explore how component composition helps answer the "props vs. state" question.
+This part introduces how to store a state inside a components. I discusses how data flows and how components communicate with each other. Finally, it explores component composition and how it help choose between props or state.
 
 ## Further Learning
 
 **Challenge**
 **Resources**
-
