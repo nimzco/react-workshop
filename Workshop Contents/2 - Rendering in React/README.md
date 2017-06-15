@@ -4,7 +4,7 @@ Elements are the smallest building blocks of React apps.
 
 > An element describes what you want to see on the screen
 
-Before diving in to see how these are created in React, let’s take a look at how elements are generally created using plain JavaScript:
+Before diving in to see how these are created in React, let’s take a look at how DOM elements are generally created using plain JavaScript:
 
 ```js
 const element = document.createElement('button');
@@ -16,7 +16,7 @@ element.innerHTML = 'Click me!';
 container.appendChild(element);
 ```
 
-## `createElement()`
+## `React.createElement()`
 
 Creating elements in React has many similarities. We need to specify the ***type*** of element we want to create, give it certain attributes (called ***props*** in react), and the ***children*** that should be rendered within our element.
 
@@ -36,7 +36,13 @@ React.createElement('button', { className: 'primary', type: 'submit' }, 'Click m
 
 *Notice how the HTML* `class` *attribute has to be set via the* `className` *property in React. This is because* `class` *is a reserved keyword in JavaScript.*
 
-## `ReactDOM.render()`
+Note that React elements are abstraction and are not DOM elements. They are represented as plain objects and are cheap to create.
+
+## ReactDOM
+
+The `react-dom` package provides DOM-specific methods that can be used at the top level of your app to render React elements into DOM elements.
+
+### `ReactDOM.render()`
 
 The `ReactDOM.render()` function is used to render React Elements to the DOM, and takes two arguments: 
 
