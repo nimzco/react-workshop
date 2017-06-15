@@ -16,7 +16,7 @@ element.innerHTML = 'Click me!';
 container.appendChild(element);
 ```
 
-## `React.createElement()`
+## `createElement()`
 
 Creating elements in React has many similarities. We need to specify the ***type*** of element we want to create, give it certain attributes (called ***props*** in react), and the ***children*** that should be rendered within our element.
 
@@ -34,7 +34,7 @@ React.createElement('button', { className: 'primary', type: 'submit' }, 'Click m
 // -> <button class="primary" type="submit">Click me</button>
 ```
 
-*Notice how the HTML* `*class*` *attribute has to be set via the* `*className*` *property in React. This is because* `*class*` *is a reserved keyword in JavaScript.*
+*Notice how the HTML* `class` *attribute has to be set via the* `className` *property in React. This is because* `class` *is a reserved keyword in JavaScript.*
 
 ## `ReactDOM.render()`
 
@@ -61,7 +61,7 @@ However, writing React using `React.createElement` can feel bit too far removed 
 
 Instead, we can use JSX to make the code look more like the rendered HTML:
 
-```js
+```jsx
 const element = (
     <ul className="list">
         <li><i>Hello</i> react!</li>
