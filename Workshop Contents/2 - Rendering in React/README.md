@@ -61,7 +61,7 @@ However, writing React using `React.createElement` can feel bit too far removed 
 
 Instead, we can use JSX to make the code look more like the rendered HTML:
 
-```jsx
+```js
 const element = (
     <ul className="list">
         <li><i>Hello</i> react!</li>
