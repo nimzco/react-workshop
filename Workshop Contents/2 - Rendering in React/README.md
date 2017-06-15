@@ -79,8 +79,9 @@ const element = (
 It’s called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
 
 
-> Since JSX is a non-standard extension of JavaScript no browser will understand it. This means we have to transpile it using a build tool like Babel. Thankfully, `create-react-app` does this for us automatically.
-## Embedding Expressions in JSX
+> Since JSX is a non-standard extension of JavaScript no browser will understand it. This means we have to transpile it using a build tool like Babel. In this workshop, it is handled directly by `create-react-app`.
+
+### Embedding Expressions in JSX
 
 You can embed any JavaScript expression in JSX by wrapping it in *curly braces*. In JavaScript, an expression is any valid unit of code that resolves to a value.
 
@@ -93,12 +94,12 @@ In practice, this means we can do things like:
 </h1>
 ```
 
-## JSX is an Expression Too
+### JSX is an Expression Too
 
 After compilation, JSX expressions get compiled down to plain JavaScript.
 This means that you can use JSX inside of if statements and for loops, assign it to variables, accept it as arguments, and return it from functions:
 
-```js
+```jsx
 function getGreeting(user) {
   if (user) {
     return <h1>Welcome, {formatName(user)}!</h1>;
@@ -108,7 +109,7 @@ function getGreeting(user) {
 ```
 Which would compile down to:
 
-```
+```js
 function getGreeting(user) {
   if (user) {
     return React.createElement('h1', null, `Welcome, ${formatName(user)}!`);
