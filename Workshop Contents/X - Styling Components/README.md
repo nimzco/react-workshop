@@ -28,8 +28,6 @@ Example:
 
 Note: _Since JSX is closer to JavaScript than HTML, React uses the camelCase property naming convention. You’ll notice that other properties such as `tabindex` become `tabIndex`._
 
-## The Creact React App way
-
 `create-react-app` have webpack configured to be able to import a CSS file into your components. That gives you a way to have a `.css` file next to your component and import it.
 
 To use it, you just have to define your CSS and import it in your component:
@@ -52,4 +50,3 @@ There are a number of other ways to style React Components, here are a few:
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [Glamorous](https://github.com/paypal/glamorous)
-- And more
