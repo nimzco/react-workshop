@@ -28,7 +28,6 @@ cd react-workshop-app
 npm start
 ```
 
-
 ## Syllabus
 
 ### Introduction
@@ -59,9 +58,10 @@ Objectives:
 
 ### Stateful Components
 
-This part introduces how to store a state inside a components. I discusses how data flows and how components communicate with each other. Finally, it explores component composition and how it help choose between props or state.
+This chapter introduces how to store a state inside a components. I discusses how data flows and how components communicate with each other. Finally, it explores component composition and how it help choose between props or state.
 
 ## Further Learning
 
-**Challenge**
 **Resources**
+https://facebook.github.io/react/tutorial/tutorial.html
+https://github.com/petehunt/react-howto

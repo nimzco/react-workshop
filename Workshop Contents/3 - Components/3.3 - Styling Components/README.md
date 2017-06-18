@@ -16,8 +16,7 @@ Here is an example:
 }} />
 ```
 
-
-## CSS classes 
+## CSS classes
 
 The other basic way of styling your elements is to pass it the `class` attribute. As `class` is a reserved keyword in JavaScript, we will use the `props` `className`.
 
@@ -48,5 +47,15 @@ To use it, you just have to define your CSS and import it in your component:
 
 There are a number of other ways to style React Components, here are a few:
 - [CSS Modules](https://github.com/css-modules/css-modules)
+
+CSS-in-JS:
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [Glamorous](https://github.com/paypal/glamorous)
+- [styled-jsx](https://github.com/zeit/styled-jsx)
+-
+
+Inline Styles:
+- [Aphrodite](https://github.com/Khan/aphrodite)
+- [Radium](https://github.com/FormidableLabs/radium)
+
+For a more exhaustive list comparing these different options, check out https://github.com/MicheleBertoli/css-in-js
