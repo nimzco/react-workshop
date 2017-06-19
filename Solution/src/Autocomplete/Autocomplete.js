@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './Autocomplete.css';
 
-export default class Autocomplete extends React.Component {
+export default class Autocomplete extends Component {
   state = {
     inputValue: '',
   };
