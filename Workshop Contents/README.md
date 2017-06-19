@@ -58,7 +58,7 @@ Objectives:
 
 ### Stateful Components
 
-This chapter introduces how to store a state inside a components. I discusses how data flows and how components communicate with each other. Finally, it explores component composition and how it help choose between props or state.
+This chapter introduces how to store internal state within components. It discusses how data flows and how components communicate with each other. Finally, it explores component composition and how it help choose between props or state.
 
 ## Further Learning
 
