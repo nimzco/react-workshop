@@ -21,7 +21,7 @@ class App extends Component {
     const {selectedEmojis} = this.state;
 
     this.setState({
-      selectedEmojis: [...selectedEmojis, emoji],
+      selectedEmojis: addItemToArray(selectedEmojis, emoji),
     });
   }
 
@@ -29,7 +29,7 @@ class App extends Component {
     const {selectedEmojis} = this.state;
 
     this.setState({
-      selectedEmojis: [...selectedEmojis.slice(0, index), ...selectedEmojis.slice(index + 1)],
+      selectedEmojis: removeItemFromArray(selectedEmojis, index),
     });
   }
 
@@ -53,3 +53,23 @@ class App extends Component {
 }
 
 export default App;
+
+/*
+ * The Array.push and Array.splice methods operate on the original array,
+ * which ends up mutating state directly. In React, we want to always avoid
+ * mutating `this.state` directly. By manipulating this.state directly you
+ * end up circumventing React’s state management, which may have potential
+ * side-effects.
+ *
+ * Instead, we want to always create new copies of the objects and arrays
+ * we want to update and and manipulate the copies. Once we're done mutating
+ * the copies, we assign them back using this.setState().
+ */
+
+function addItemToArray(array, item) {
+  return [...array, item];
+}
+
+function removeItemFromArray(array, index) {
+  return [...array.slice(0, index), ...array.slice(index + 1)];
+}
