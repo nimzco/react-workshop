@@ -63,5 +63,7 @@ This chapter introduces how to store a state inside a components. I discusses ho
 ## Further Learning
 
 **Resources**
+
 https://facebook.github.io/react/tutorial/tutorial.html
+
 https://github.com/petehunt/react-howto
