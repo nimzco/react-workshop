@@ -52,7 +52,6 @@ CSS-in-JS:
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [Glamorous](https://github.com/paypal/glamorous)
 - [styled-jsx](https://github.com/zeit/styled-jsx)
--
 
 Inline Styles:
 - [Aphrodite](https://github.com/Khan/aphrodite)
