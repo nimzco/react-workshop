@@ -29,7 +29,7 @@ class App extends React.Component {
   }
 
   render() {
-    const selectedEmojis = ['🐯 Tiger', '🐬 Dolphin'];
+    const {selectedEmojis} = this.state;
 
     return (
       <div>

@@ -3,14 +3,14 @@ import React from 'react';
 import {filterItems} from '../../utils';
 import './Autocomplete.css';
 
-export default class Autocomplete extends Component {
+export default class Autocomplete extends React.Component {
   state = {
     inputValue: '',
   };
 
-  handleInputChange = (value) => {
+  handleInputChange = (event) => {
     this.setState({
-      inputValue: value,
+      inputValue: event.target.value,
     });
   }
 

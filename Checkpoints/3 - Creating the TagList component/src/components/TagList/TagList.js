@@ -13,7 +13,7 @@ export default function TagList(props) {
            * Keys help React identify which items have changed, are added, or are removed.
            */
           key={index}
-          onRemove={() => console.log(`Remove tag #${index}`)}
+          onRemove={() => alert(`Remove tag #${index}`)}
         >
           {tag}
         </Tag>
