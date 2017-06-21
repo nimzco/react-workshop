@@ -12,7 +12,7 @@ React makes it simple to declaratively express what your app should look at any 
 
 When the state of your application changes, React will figure out which parts need to update, and will only render those using the minimal number of DOM mutations possible.
 
-that it was a good practice to write HTML, JavaScript and CSS separately. React does the exact opposite, and encourages that you write your HTML and [CSS in your JavaScript](https://speakerdeck.com/vjeux/react-css-in-js) instead. This sounds like a crazy idea at first, but after trying it out, it actually isn't as weird as it sounds initially. Reason being the front end development scene is shifting towards a paradigm of component-based development. The features of React:
+Some of the key features of React include:
 
 - **Declarative** - You describe what you want to see in your view and not how to achieve it. In the jQuery days, developers would have to come up with a series of steps to manipulate the DOM to get from one app state to the next. In React, you simply change the state within the component and the view will update itself according to the state. It is also easy to determine how the component will look like just by looking at the markup in the `render()` method.
 
@@ -64,9 +64,9 @@ Declarative programming generally leads to code that is:
 - More predictable and less error-prone
 
 ## When should I use React?
-> 🔨  When all you have is a hammer, everything looks like a nail.
-
 Not every project may need to use React.
+
+> 🔨  When all you have is a hammer, everything looks like a nail.
 
 When evaluating the needs of a project, here are a few factors you might want to consider in making the decision of whether to use React or not:
 
