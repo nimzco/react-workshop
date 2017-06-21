@@ -11,12 +11,11 @@ To create a stateful component, we have to create a new `class` that extends `Re
 
 To render our component, we have to assign it a `render` method.
 
-State is set using the `setState` method. Calling `setState` triggers UI updates, and forces our component to re-render.
+State is set using the `setState` method. Calling `setState` triggers UI updates, and schedules an update to re-render our component.
 
 As a simple example of state, let’s create a `Counter` component that counts how often we’ve clicked a button:
 
-<img width="473" alt="s_9d770ebd1641d231a06d1d808f243a8b1d9c4424b7c00b112f83df7ba3151d4b_1496116576936_zadl82o" src="https://user-images.githubusercontent.com/1416436/27197542-94fe6fd6-51dc-11e7-8b09-92799e4e5b23.png">
-
+![counter](https://user-images.githubusercontent.com/1416436/27404053-a90638f2-569a-11e7-8620-5a00b97b8743.gif)
 
 ```js
 class Counter extends React.Component {
@@ -26,7 +25,7 @@ class Counter extends React.Component {
   }
 
   handleButtonClick = () => {
-    // Then, we call the `this.setState` method
+    // Then, we call the `this.setState` method to update the state
     this.setState({
       count: this.state.count + 1
     });
@@ -44,13 +43,12 @@ class Counter extends React.Component {
 
 Whenever `this.setState` is called, an update to the component is scheduled, causing React to merge in the passed state update and rerender the component along with its descendants.
 
-
 ## Unidirectional Data Flow
 In React, application data flows unidirectionally via the state and props objects (as opposed to the two-way binding of libraries). This means that, in a multi component heirachy, a common parent component should manage the state and pass it down the chain via props.
 
 Your state should be updated using the `setState` method to ensure that a UI refresh will occur, if necessary. The resulting values should be passed down to child components using props.
 
-## Lifting State Up
+### Lifting State Up
 When you want to aggregate data from multiple children or to have two child components communicate with each other, move the state upwards so that it lives in the parent component. The parent can then pass the `state` back down to the children via `props`, so that the child components are always in sync with each other and with the parent.
 
 For more examples of this pattern, take a look at [the official React documentation](https://facebook.github.io/react/tutorial/tutorial.html#lifting-state-up)
