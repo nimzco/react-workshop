@@ -1,0 +1,966 @@
+[
+  {
+    "value": "💯 100",
+    "keywords": "hundred points symbol symbol wow wow win win perfect perfect parties parties"
+  },
+  {
+    "value": "😀 Grinning",
+    "keywords": "grinning face happy smiley emotion emotion"
+  },
+  {
+    "value": "😬 Grimacing",
+    "keywords": "grimacing face silly smiley emotion emotion selfie selfie"
+  },
+  {
+    "value": "😁 Grin",
+    "keywords": "grinning face with smiling eyes happy silly smiley emotion emotion good good selfie selfie"
+  },
+  {
+    "value": "😂 Joy",
+    "keywords": "face with tears of joy happy silly smiley cry laugh laugh emotion emotion sarcastic sarcastic"
+  },
+  {
+    "value": "😃 Smiley",
+    "keywords": "smiling face with open mouth happy smiley emotion emotion good good"
+  },
+  {
+    "value": "😄 Smile",
+    "keywords": "smiling face with open mouth and smiling eyes happy smiley emotion emotion"
+  },
+  {
+    "value": "😅 Sweat Smile",
+    "keywords": "smiling face with open mouth and cold sweat smiley workout sweat emotion emotion"
+  },
+  {
+    "value": "😆 Laughing",
+    "keywords": "smiling face with open mouth and tightly-closed eyes happy smiley laugh laugh emotion emotion"
+  },
+  {
+    "value": "😇 Innocent",
+    "keywords": "smiling face with halo smiley emotion emotion"
+  },
+  {
+    "value": "😉 Wink",
+    "keywords": "winking face silly smiley emotion emotion"
+  },
+  {
+    "value": "😊 Blush",
+    "keywords": "smiling face with smiling eyes happy smiley emotion emotion good good beautiful beautiful"
+  },
+  {
+    "value": "🙂 Slight Smile",
+    "keywords": "slightly smiling face happy smiley"
+  },
+  {
+    "value": "🙃 Upside Down",
+    "keywords": "upside-down face silly smiley sarcastic sarcastic"
+  },
+  {
+    "value": "😋 Yum",
+    "keywords": "face savouring delicious food happy silly smiley emotion emotion sarcastic sarcastic good good"
+  },
+  {
+    "value": "😌 Relieved",
+    "keywords": "relieved face smiley emotion emotion"
+  },
+  {
+    "value": "😍 Heart Eyes",
+    "keywords": "smiling face with heart-shaped eyes happy smiley love sex heart eyes emotion emotion beautiful beautiful"
+  },
+  {
+    "value": "😘 Kissing Heart",
+    "keywords": "face throwing a kiss smiley love sexy"
+  },
+  {
+    "value": "😗 Kissing",
+    "keywords": "kissing face smiley sexy"
+  },
+  {
+    "value": "😙 Kissing Smiling Eyes",
+    "keywords": "kissing face with smiling eyes smiley sexy"
+  },
+  {
+    "value": "😚 Kissing Closed Eyes",
+    "keywords": "kissing face with closed eyes smiley sexy"
+  },
+  {
+    "value": "😜 Stuck Out Tongue Winking Eye",
+    "keywords": "face with stuck-out tongue and winking eye happy smiley emotion emotion parties parties"
+  },
+  {
+    "value": "😝 Stuck Out Tongue Closed Eyes",
+    "keywords": "face with stuck-out tongue and tightly-closed eyes happy smiley emotion emotion"
+  },
+  {
+    "value": "😛 Stuck Out Tongue",
+    "keywords": "face with stuck-out tongue smiley sex emotion emotion"
+  },
+  {
+    "value": "🤑 Money Mouth",
+    "keywords": "money-mouth face smiley win win money money emotion emotion boys night boys night"
+  },
+  {
+    "value": "🤓 Nerd",
+    "keywords": "nerd face smiley glasses"
+  },
+  {
+    "value": "😎 Sunglasses",
+    "keywords": "smiling face with sunglasses silly smiley emojione glasses boys night boys night"
+  },
+  {
+    "value": "🤗 Hugging",
+    "keywords": "hugging face smiley hug thank you"
+  },
+  {
+    "value": "😏 Smirk",
+    "keywords": "smirking face silly smiley sexy sarcastic sarcastic"
+  },
+  {
+    "value": "😶 No Mouth",
+    "keywords": "face without mouth mad smiley neutral emotion emotion"
+  },
+  {
+    "value": "😐 Neutral Face",
+    "keywords": "neutral face mad smiley shrug neutral emotion emotion"
+  },
+  {
+    "value": "😑 Expressionless",
+    "keywords": "expressionless face mad smiley neutral emotion emotion"
+  },
+  {
+    "value": "😒 Unamused",
+    "keywords": "unamused face sad mad smiley tired emotion emotion"
+  },
+  {
+    "value": "🙄 Rolling Eyes",
+    "keywords": "face with rolling eyes mad smiley rolling eyes emotion emotion sarcastic sarcastic"
+  },
+  {
+    "value": "🤔 Thinking",
+    "keywords": "thinking face smiley thinking boys night boys night"
+  },
+  {
+    "value": "😳 Flushed",
+    "keywords": "flushed face smiley emotion emotion omg omg"
+  },
+  {
+    "value": "😞 Disappointed",
+    "keywords": "disappointed face sad smiley tired emotion emotion"
+  },
+  {
+    "value": "😟 Worried",
+    "keywords": "worried face sad smiley emotion emotion"
+  },
+  {
+    "value": "😠 Angry",
+    "keywords": "angry face mad smiley emotion emotion"
+  },
+  {
+    "value": "😡 Rage",
+    "keywords": "pouting face mad smiley angry emotion emotion"
+  },
+  {
+    "value": "😔 Pensive",
+    "keywords": "pensive face sad smiley emotion emotion rip rip"
+  },
+  {
+    "value": "😕 Confused",
+    "keywords": "confused face smiley surprised emotion emotion"
+  },
+  {
+    "value": "🙁 Slight Frown",
+    "keywords": "slightly frowning face sad smiley emotion emotion"
+  },
+  {
+    "value": "☹ Frowning2",
+    "keywords": "white frowning face sad smiley emotion emotion"
+  },
+  {
+    "value": "😣 Persevere",
+    "keywords": "persevering face sad smiley angry emotion emotion"
+  },
+  {
+    "value": "😖 Confounded",
+    "keywords": "confounded face sad smiley angry emotion emotion"
+  },
+  {
+    "value": "😫 Tired Face",
+    "keywords": "tired face sad smiley tired emotion emotion"
+  },
+  {
+    "value": "😩 Weary",
+    "keywords": "weary face sad smiley tired stressed emotion emotion"
+  },
+  {
+    "value": "😤 Triumph",
+    "keywords": "face with look of triumph mad smiley angry emotion emotion steam steam"
+  },
+  {
+    "value": "😮 Open Mouth",
+    "keywords": "face with open mouth smiley surprised wow wow emotion emotion"
+  },
+  {
+    "value": "😱 Scream",
+    "keywords": "face screaming in fear smiley surprised wow wow emotion emotion omg omg"
+  },
+  {
+    "value": "😨 Fearful",
+    "keywords": "fearful face smiley surprised emotion emotion"
+  },
+  {
+    "value": "😰 Cold Sweat",
+    "keywords": "face with open mouth and cold sweat smiley sweat emotion emotion"
+  },
+  {
+    "value": "😯 Hushed",
+    "keywords": "hushed face smiley surprised wow wow"
+  },
+  {
+    "value": "😦 Frowning",
+    "keywords": "frowning face with open mouth sad smiley surprised emotion emotion"
+  },
+  {
+    "value": "😧 Anguished",
+    "keywords": "anguished face sad smiley surprised emotion emotion"
+  },
+  {
+    "value": "😢 Cry",
+    "keywords": "crying face sad smiley cry emotion emotion rip rip heartbreak heartbreak"
+  },
+  {
+    "value": "😥 Disappointed Relieved",
+    "keywords": "disappointed but relieved face sad smiley stressed sweat cry emotion emotion"
+  },
+  {
+    "value": "😪 Sleepy",
+    "keywords": "sleepy face smiley sick emotion emotion"
+  },
+  {
+    "value": "😓 Sweat",
+    "keywords": "face with cold sweat sad smiley stressed sweat emotion emotion"
+  },
+  {
+    "value": "😭 Sob",
+    "keywords": "loudly crying face sad smiley cry emotion emotion heartbreak heartbreak"
+  },
+  {
+    "value": "😵 Dizzy Face",
+    "keywords": "dizzy face smiley surprised dead wow wow emotion emotion omg omg"
+  },
+  {
+    "value": "😲 Astonished",
+    "keywords": "astonished face smiley surprised wow wow emotion emotion omg omg"
+  },
+  {
+    "value": "🤐 Zipper Mouth",
+    "keywords": "zipper-mouth face mad smiley"
+  },
+  {
+    "value": "😷 Mask",
+    "keywords": "face with medical mask smiley dead health sick"
+  },
+  {
+    "value": "🤒 Thermometer Face",
+    "keywords": "face with thermometer smiley health sick emotion emotion"
+  },
+  {
+    "value": "🤕 Head Bandage",
+    "keywords": "face with head-bandage smiley health sick emotion emotion"
+  },
+  {
+    "value": "😴 Sleeping",
+    "keywords": "sleeping face smiley tired emotion emotion goodnight goodnight"
+  },
+  {
+    "value": "💤 Zzz",
+    "keywords": "sleeping symbol tired goodnight goodnight"
+  },
+  {
+    "value": "💩 Poop",
+    "keywords": "pile of poo bathroom shit sol sol diarrhea diarrhea"
+  },
+  {
+    "value": "😈 Smiling Imp",
+    "keywords": "smiling face with horns silly smiley angry monster devil devil boys night boys night"
+  },
+  {
+    "value": "👿 Imp",
+    "keywords": "imp smiley monster devil devil wth wth"
+  },
+  {
+    "value": "👹 Japanese Ogre",
+    "keywords": "japanese ogre monster"
+  },
+  {
+    "value": "👺 Japanese Goblin",
+    "keywords": "japanese goblin angry monster"
+  },
+  {
+    "value": "💀 Skull",
+    "keywords": "skull dead halloween skull"
+  },
+  {
+    "value": "👻 Ghost",
+    "keywords": "ghost holidays halloween monster"
+  },
+  {
+    "value": "👽 Alien",
+    "keywords": "extraterrestrial alien space monster alien scientology scientology"
+  },
+  {
+    "value": "🤖 Robot",
+    "keywords": "robot face monster robot"
+  },
+  {
+    "value": "😺 Smiley Cat",
+    "keywords": "smiling cat face with open mouth happy cat cat animal animal"
+  },
+  {
+    "value": "😸 Smile Cat",
+    "keywords": "grinning cat face with smiling eyes happy cat cat animal animal"
+  },
+  {
+    "value": "😹 Joy Cat",
+    "keywords": "cat face with tears of joy happy silly cry laugh laugh cat cat animal animal sarcastic sarcastic"
+  },
+  {
+    "value": "😻 Heart Eyes Cat",
+    "keywords": "smiling cat face with heart-shaped eyes heart eyes cat cat animal animal beautiful beautiful"
+  },
+  {
+    "value": "😼 Smirk Cat",
+    "keywords": "cat face with wry smile cat cat animal animal"
+  },
+  {
+    "value": "😽 Kissing Cat",
+    "keywords": "kissing cat face with closed eyes cat cat animal animal"
+  },
+  {
+    "value": "🙀 Scream Cat",
+    "keywords": "weary cat face cat cat animal animal"
+  },
+  {
+    "value": "😿 Crying Cat Face",
+    "keywords": "crying cat face cry cat cat animal animal"
+  },
+  {
+    "value": "😾 Pouting Cat",
+    "keywords": "pouting cat face cat cat animal animal"
+  },
+  {
+    "value": "🙌 Raised Hands",
+    "keywords": "person raising both hands in celebration body hands diversity diversity perfect perfect good good parties parties"
+  },
+  {
+    "value": "👏 Clap",
+    "keywords": "clapping hands sign body hands win win diversity diversity good good beautiful beautiful"
+  },
+  {
+    "value": "👋 Wave",
+    "keywords": "waving hand sign body hands hi diversity diversity"
+  },
+  {
+    "value": "👍 Thumbsup",
+    "keywords": "thumbs up sign body hands hi luck thank you diversity diversity perfect perfect good good beautiful beautiful"
+  },
+  {
+    "value": "👎 Thumbsdown",
+    "keywords": "thumbs down sign body hands diversity diversity"
+  },
+  {
+    "value": "👊 Punch",
+    "keywords": "fisted hand sign body hands hi fist bump diversity diversity boys night boys night"
+  },
+  {
+    "value": "✊ Fist",
+    "keywords": "raised fist body hands hi fist bump diversity diversity condolence condolence"
+  },
+  {
+    "value": "✌ v",
+    "keywords": "victory hand body hands hi thank you peace peace diversity diversity girls night girls night"
+  },
+  {
+    "value": "👌 Ok Hand",
+    "keywords": "ok hand sign body hands hi diversity diversity perfect perfect good good beautiful beautiful"
+  },
+  {
+    "value": "✋ Raised Hand",
+    "keywords": "raised hand body hands hi diversity diversity girls night girls night"
+  },
+  {
+    "value": "👐 Open Hands",
+    "keywords": "open hands sign body hands diversity diversity condolence condolence"
+  },
+  {
+    "value": "💪 Muscle",
+    "keywords": "flexed biceps body hands workout flex win win diversity diversity feminist feminist boys night boys night"
+  },
+  {
+    "value": "🙏 Pray",
+    "keywords": "person with folded hands body hands hi luck thank you pray pray diversity diversity scientology scientology"
+  },
+  {
+    "value": "☝ Point Up",
+    "keywords": "white up pointing index body hands emojione diversity diversity"
+  },
+  {
+    "value": "👆 Point Up 2",
+    "keywords": "white up pointing backhand index body hands diversity diversity"
+  },
+  {
+    "value": "👇 Point Down",
+    "keywords": "white down pointing backhand index body hands diversity diversity"
+  },
+  {
+    "value": "👈 Point Left",
+    "keywords": "white left pointing backhand index body hands hi diversity diversity"
+  },
+  {
+    "value": "👉 Point Right",
+    "keywords": "white right pointing backhand index body hands hi diversity diversity"
+  },
+  {
+    "value": "🖕 Middle Finger",
+    "keywords": "reversed hand with middle finger extended body hands middle finger diversity diversity"
+  },
+  {
+    "value": "🖐 Hand Splayed",
+    "keywords": "raised hand with fingers splayed body hands hi diversity diversity"
+  },
+  {
+    "value": "🤘 Metal",
+    "keywords": "sign of the horns body hands hi diversity diversity boys night boys night parties parties"
+  },
+  {
+    "value": "🖖 Vulcan",
+    "keywords": "raised hand with part between middle and ring fingers body hands hi diversity diversity"
+  },
+  {
+    "value": "✍ Writing Hand",
+    "keywords": "writing hand body hands write diversity diversity"
+  },
+  {
+    "value": "💅 Nail Care",
+    "keywords": "nail polish women body hands nailpolish diversity diversity girls night girls night"
+  },
+  {
+    "value": "👄 Lips",
+    "keywords": "mouth women body sexy lip"
+  },
+  {
+    "value": "👅 Tongue",
+    "keywords": "tongue body sexy lip"
+  },
+  {
+    "value": "👂 Ear",
+    "keywords": "ear body diversity diversity"
+  },
+  {
+    "value": "👃 Nose",
+    "keywords": "nose body diversity diversity"
+  },
+  {
+    "value": "👁 Eye",
+    "keywords": "eye body eyes"
+  },
+  {
+    "value": "👀 Eyes",
+    "keywords": "eyes body eyes"
+  },
+  {
+    "value": "👶 Baby",
+    "keywords": "baby people baby diversity diversity"
+  },
+  {
+    "value": "👦 Boy",
+    "keywords": "boy people baby diversity diversity"
+  },
+  {
+    "value": "👧 Girl",
+    "keywords": "girl people women baby diversity diversity"
+  },
+  {
+    "value": "👨 Man",
+    "keywords": "man people men sex diversity diversity selfie selfie boys night boys night"
+  },
+  {
+    "value": "👩 Woman",
+    "keywords": "woman people women sex diversity diversity feminist feminist selfie selfie girls night girls night"
+  },
+  {
+    "value": "👱 Person With Blond Hair",
+    "keywords": "person with blond hair people men diversity diversity"
+  },
+  {
+    "value": "👴 Older Man",
+    "keywords": "older man people men old people diversity diversity"
+  },
+  {
+    "value": "👵 Older Woman",
+    "keywords": "older woman people old people diversity diversity"
+  },
+  {
+    "value": "👲 Man With Gua Pi Mao",
+    "keywords": "man with gua pi mao people hat men diversity diversity"
+  },
+  {
+    "value": "👳 Man With Turban",
+    "keywords": "man with turban people hat diversity diversity"
+  },
+  {
+    "value": "👮 Cop",
+    "keywords": "police officer people hat men diversity diversity job job police police 911 911"
+  },
+  {
+    "value": "👷 Construction Worker",
+    "keywords": "construction worker people hat men diversity diversity job job"
+  },
+  {
+    "value": "💂 Guardsman",
+    "keywords": "guardsman people hat men diversity diversity job job"
+  },
+  {
+    "value": "🕵 Spy",
+    "keywords": "sleuth or spy people hat men glasses diversity diversity job job"
+  },
+  {
+    "value": "🎅 Santa",
+    "keywords": "father christmas people hat winter holidays christmas diversity diversity santa santa"
+  },
+  {
+    "value": "👼 Angel",
+    "keywords": "baby angel people diversity diversity omg omg"
+  },
+  {
+    "value": "👸 Princess",
+    "keywords": "princess people women diversity diversity beautiful beautiful girls night girls night"
+  },
+  {
+    "value": "👰 Bride With Veil",
+    "keywords": "bride with veil people wedding women diversity diversity"
+  },
+  {
+    "value": "🚶 Walking",
+    "keywords": "pedestrian people men diversity diversity"
+  },
+  {
+    "value": "🏃 Runner",
+    "keywords": "runner people men diversity diversity boys night boys night run run"
+  },
+  {
+    "value": "💃 Dancer",
+    "keywords": "dancer people women sexy diversity diversity girls night girls night dance dance"
+  },
+  {
+    "value": "🙇 Bow",
+    "keywords": "person bowing deeply people pray pray diversity diversity"
+  },
+  {
+    "value": "💁 Information Desk Person",
+    "keywords": "information desk person people women diversity diversity"
+  },
+  {
+    "value": "🙅 No Good",
+    "keywords": "face with no good gesture people women diversity diversity girls night girls night"
+  },
+  {
+    "value": "🙆 Ok Woman",
+    "keywords": "face with ok gesture people women diversity diversity"
+  },
+  {
+    "value": "🙋 Raising Hand",
+    "keywords": "happy person raising one hand people women diversity diversity"
+  },
+  {
+    "value": "🙎 Person With Pouting Face",
+    "keywords": "person with pouting face people women diversity diversity"
+  },
+  {
+    "value": "🙍 Person Frowning",
+    "keywords": "person frowning people women diversity diversity"
+  },
+  {
+    "value": "💇 Haircut",
+    "keywords": "haircut people women diversity diversity"
+  },
+  {
+    "value": "💆 Massage",
+    "keywords": "face massage people women diversity diversity"
+  },
+  {
+    "value": "👩 Couple Ww",
+    "keywords": "couple (woman,woman) people women love sex lgbt lgbt"
+  },
+  {
+    "value": "👨 Couple Mm",
+    "keywords": "couple (man,man) people gay men love sex lgbt lgbt"
+  },
+  {
+    "value": "💄 Lipstick",
+    "keywords": "lipstick object women fashion sexy lip"
+  },
+  {
+    "value": "👣 Footprints",
+    "keywords": "footprints"
+  },
+  {
+    "value": "👠 High Heel",
+    "keywords": "high-heeled shoe women fashion shoe sexy accessories girls night girls night"
+  },
+  {
+    "value": "🎩 Tophat",
+    "keywords": "top hat hat fashion accessories"
+  },
+  {
+    "value": "👑 Crown",
+    "keywords": "crown object gem accessories"
+  },
+  {
+    "value": "💼 Briefcase",
+    "keywords": "briefcase bag work accessories nutcase nutcase job job"
+  },
+  {
+    "value": "💍 Ring",
+    "keywords": "ring wedding object fashion gem accessories"
+  },
+  {
+    "value": "🐶 Dog",
+    "keywords": "dog face dog dog pug pug animal animal"
+  },
+  {
+    "value": "🐱 Cat",
+    "keywords": "cat face halloween vagina cat cat animal animal"
+  },
+  {
+    "value": "🐭 Mouse",
+    "keywords": "mouse face animal animal"
+  },
+  {
+    "value": "🐹 Hamster",
+    "keywords": "hamster face animal animal"
+  },
+  {
+    "value": "🐰 Rabbit",
+    "keywords": "rabbit face wildlife animal animal"
+  },
+  {
+    "value": "🐻 Bear",
+    "keywords": "bear face wildlife roar animal animal"
+  },
+  {
+    "value": "🐼 Panda Face",
+    "keywords": "panda face wildlife roar animal animal"
+  },
+  {
+    "value": "🐨 Koala",
+    "keywords": "koala wildlife animal animal"
+  },
+  {
+    "value": "🐯 Tiger",
+    "keywords": "tiger face wildlife roar cat cat animal animal"
+  },
+  {
+    "value": "🦁 Lion Face",
+    "keywords": "lion face wildlife roar cat cat animal animal"
+  },
+  {
+    "value": "🐙 Octopus",
+    "keywords": "octopus wildlife animal animal"
+  },
+  {
+    "value": "🐵 Monkey Face",
+    "keywords": "monkey face animal animal"
+  },
+  {
+    "value": "🙈 See No Evil",
+    "keywords": "see-no-evil monkey animal animal"
+  },
+  {
+    "value": "🙉 Hear No Evil",
+    "keywords": "hear-no-evil monkey animal animal"
+  },
+  {
+    "value": "🙊 Speak No Evil",
+    "keywords": "speak-no-evil monkey animal animal"
+  },
+  {
+    "value": "🐒 Monkey",
+    "keywords": "monkey wildlife animal animal"
+  },
+  {
+    "value": "🐔 Chicken",
+    "keywords": "chicken animal animal chicken chicken"
+  },
+  {
+    "value": "🐧 Penguin",
+    "keywords": "penguin wildlife animal animal"
+  },
+  {
+    "value": "🐤 Baby Chick",
+    "keywords": "baby chick animal animal chicken chicken"
+  },
+  {
+    "value": "🦄 Unicorn",
+    "keywords": "unicorn face animal animal"
+  },
+  {
+    "value": "🐝 Bee",
+    "keywords": "honeybee insects animal animal"
+  },
+  {
+    "value": "🐛 Bug",
+    "keywords": "bug insects animal animal"
+  },
+  {
+    "value": "🌎 Earth Americas",
+    "keywords": "earth globe americas map vacation globe globe"
+  },
+  {
+    "value": "🌍 Earth Africa",
+    "keywords": "earth globe europe-africa map vacation globe globe"
+  },
+  {
+    "value": "🌏 Earth Asia",
+    "keywords": "earth globe asia-australia map vacation globe globe"
+  },
+  {
+    "value": "🌙 Crescent Moon",
+    "keywords": "crescent moon space sky goodnight goodnight moon moon"
+  },
+  {
+    "value": "⭐ Star",
+    "keywords": "white medium star space sky star"
+  },
+  {
+    "value": "💫 Dizzy",
+    "keywords": "dizzy symbol star symbol"
+  },
+  {
+    "value": "✨ Sparkles",
+    "keywords": "sparkles star girls night girls night"
+  },
+  {
+    "value": "🌤 White Sun Small Cloud",
+    "keywords": "white sun with small cloud weather sky cloud sun"
+  },
+  {
+    "value": "⛅ Partly Sunny",
+    "keywords": "sun behind cloud weather sky cloud sun"
+  },
+  {
+    "value": "🌥 White Sun Cloud",
+    "keywords": "white sun behind cloud weather sky cloud cold sun"
+  },
+  {
+    "value": "🌦 White Sun Rain Cloud",
+    "keywords": "white sun behind cloud with rain weather sky cloud cold rain sun"
+  },
+  {
+    "value": "☁ Cloud",
+    "keywords": "cloud weather sky cloud cold rain"
+  },
+  {
+    "value": "🌧 Cloud Rain",
+    "keywords": "cloud with rain weather winter sky cloud cold rain"
+  },
+  {
+    "value": "⛈ Thunder Cloud Rain",
+    "keywords": "thunder cloud and rain weather sky cloud cold rain"
+  },
+  {
+    "value": "🌩 Cloud Lightning",
+    "keywords": "cloud with lightning weather sky cloud cold rain"
+  },
+  {
+    "value": "⚡ Zap",
+    "keywords": "high voltage sign weather sky diarrhea diarrhea"
+  },
+  {
+    "value": "🔥 Fire",
+    "keywords": "fire wth wth hot hot"
+  },
+  {
+    "value": "❄ Snowflake",
+    "keywords": "snowflake weather winter sky holidays cold snow snow"
+  },
+  {
+    "value": "🌨 Cloud Snow",
+    "keywords": "cloud with snow weather winter sky cloud cold snow snow"
+  },
+  {
+    "value": "💧 Droplet",
+    "keywords": "droplet weather sky rain"
+  },
+  {
+    "value": "💦 Sweat Drops",
+    "keywords": "splashing sweat symbol rain stressed sweat"
+  },
+  {
+    "value": "🌊 Ocean",
+    "keywords": "water wave weather boat tropical swim"
+  },
+  {
+    "value": "🍏 Green Apple",
+    "keywords": "green apple fruit food"
+  },
+  {
+    "value": "🍎 Apple",
+    "keywords": "red apple fruit food creationism creationism"
+  },
+  {
+    "value": "🍐 Pear",
+    "keywords": "pear fruit food"
+  },
+  {
+    "value": "🍊 Tangerine",
+    "keywords": "tangerine fruit food"
+  },
+  {
+    "value": "🍋 Lemon",
+    "keywords": "lemon fruit food"
+  },
+  {
+    "value": "🍌 Banana",
+    "keywords": "banana fruit penis food"
+  },
+  {
+    "value": "🍉 Watermelon",
+    "keywords": "watermelon fruit food"
+  },
+  {
+    "value": "🍇 Grapes",
+    "keywords": "grapes fruit food"
+  },
+  {
+    "value": "🍓 Strawberry",
+    "keywords": "strawberry fruit food"
+  },
+  {
+    "value": "🍈 Melon",
+    "keywords": "melon fruit boobs food"
+  },
+  {
+    "value": "🍒 Cherries",
+    "keywords": "cherries fruit food"
+  },
+  {
+    "value": "🍑 Peach",
+    "keywords": "peach fruit butt food"
+  },
+  {
+    "value": "🍍 Pineapple",
+    "keywords": "pineapple fruit food tropical"
+  },
+  {
+    "value": "🍅 Tomato",
+    "keywords": "tomato fruit vegetables food"
+  },
+  {
+    "value": "🍆 Eggplant",
+    "keywords": "aubergine vegetables penis food"
+  },
+  {
+    "value": "🌶 Hot Pepper",
+    "keywords": "hot pepper vegetables food"
+  },
+  {
+    "value": "🌽 Corn",
+    "keywords": "ear of maize vegetables food"
+  },
+  {
+    "value": "🍠 Sweet Potato",
+    "keywords": "roasted sweet potato vegetables food"
+  },
+  {
+    "value": "🍔 Hamburger",
+    "keywords": "hamburger america food"
+  },
+  {
+    "value": "🍟 Fries",
+    "keywords": "french fries america food"
+  },
+  {
+    "value": "🌭 Hotdog",
+    "keywords": "hot dog america food"
+  },
+  {
+    "value": "🍕 Pizza",
+    "keywords": "slice of pizza italian food boys night boys night"
+  },
+  {
+    "value": "🌮 Taco",
+    "keywords": "taco food mexican vagina"
+  },
+  {
+    "value": "🌯 Burrito",
+    "keywords": "burrito food mexican"
+  },
+  {
+    "value": "🍣 Sushi",
+    "keywords": "sushi sushi japan food"
+  },
+  {
+    "value": "🍦 Icecream",
+    "keywords": "soft ice cream food"
+  },
+  {
+    "value": "🍰 Cake",
+    "keywords": "shortcake food"
+  },
+  {
+    "value": "🍬 Candy",
+    "keywords": "candy food halloween"
+  },
+  {
+    "value": "🍿 Popcorn",
+    "keywords": "popcorn food parties parties"
+  },
+  {
+    "value": "🍺 Beer",
+    "keywords": "beer mug drink beer alcohol parties parties"
+  },
+  {
+    "value": "🍻 Beers",
+    "keywords": "clinking beer mugs drink cheers beer alcohol thank you boys night boys night parties parties"
+  },
+  {
+    "value": "🍷 Wine Glass",
+    "keywords": "wine glass drink italian alcohol girls night girls night parties parties"
+  },
+  {
+    "value": "🍸 Cocktail",
+    "keywords": "cocktail glass drink cocktail alcohol girls night girls night parties parties"
+  },
+  {
+    "value": "☕ Coffee",
+    "keywords": "hot beverage drink caffeine steam steam morning morning"
+  },
+  {
+    "value": "⚽ Soccer",
+    "keywords": "soccer ball game ball sport soccer football"
+  },
+  {
+    "value": "🏀 Basketball",
+    "keywords": "basketball and hoop game ball sport basketball"
+  },
+  {
+    "value": "🏈 Football",
+    "keywords": "american football america game ball sport football"
+  },
+  {
+    "value": "⚾ Baseball",
+    "keywords": "baseball game ball sport baseball"
+  },
+  {
+    "value": "🎾 Tennis",
+    "keywords": "tennis racquet and ball game ball sport tennis"
+  },
+  {
+    "value": "🏐 Volleyball",
+    "keywords": "volleyball game ball sport volleyball"
+  },
+  {
+    "value": "🏉 Rugby Football",
+    "keywords": "rugby football game sport football"
+  }
+]
