@@ -1,8 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 import Title from '../Title';
 
-class App extends Component {
-
+class App extends React.Component {
   render() {
     return (
       <Title />
@@ -10,4 +11,4 @@ class App extends Component {
   }
 }
 
-export default App;
+ReactDOM.render(<App/>, document.getElementById('container')); 
