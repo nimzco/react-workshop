@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-### Cloning the workshop's boilerplate locally
+### Cloning the workshop's Boilerplate locally
 First, and most importantly, please take a moment to clone the boilerplate repo we've set up for the workshop and follow the "Getting Started" instructions.
 
 https://github.com/Shopify/react-workshop-boilerplate
