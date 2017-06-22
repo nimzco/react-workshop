@@ -6,7 +6,7 @@ It was created to solve the problem of **building large-scale applications with 
 
 It has quickly become the tool of choice for easily building dynamic user interfaces, and is used by companies large and small including Facebook, Instagram, Netflix, Airbnb and many more!
 
-<img width="590" alt="s_2457af7b66ddaf025cd17086458b6faeff1aad9b80f2b6325be4420b27ae3b59_1496081730759_screen shot 2017-05-29 at 2 15 12 pm" src="https://user-images.githubusercontent.com/445045/27195947-b114e854-51d6-11e7-9cb4-9def0360495c.png">
+<img width="590" alt="who-uses-react" src="https://user-images.githubusercontent.com/1416436/27457229-e437f6ea-5771-11e7-8f33-b0ba66a5391d.png">
 
 React makes it simple to declaratively express what your app should look at any given point in time, without having to worry about mutating the DOM yourself.
 
