@@ -51,13 +51,13 @@ This chapter introduces how to store internal state within components. It discus
 
 ## Further Learning
 
-**Resources**
+### Resources
 
 https://facebook.github.io/react/tutorial/tutorial.html
 
 https://github.com/petehunt/react-howto
 
-**`creact-react-app`**
+### `creact-react-app`
 If you'd like to start your next project from scratch, we strongly recommend you try [create-react-app](https://github.com/facebookincubator/create-react-app/). Create React App is a command-line tool for rapidly bootstrapping React applications, with zero configuration needed.
 
 It needs Node v6.x.x or greater installed on your machine. You can easily double check this by running `node --version` from the command line.
