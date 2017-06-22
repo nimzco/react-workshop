@@ -1,6 +1,6 @@
 import React from 'React';
 
-function Title() {
+export default function Title() {
   return (
     <h1>😺 Emoji picker 🐶</h1>
   );
