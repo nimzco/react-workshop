@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 let count = 10;
 let hasFire = (count > 99);
 
@@ -12,3 +15,9 @@ const bell = (
     {count > 0 ? badge : null}
   </div>
 );
+
+ReactDOM.render(
+  bell,
+  document.getElementById('container')
+);
+
